@@ -17,8 +17,7 @@ O principal objetivo desses projetos é adquirir experiência prática com Java 
 - **Java**: Linguagem principal utilizada para o desenvolvimento dos projetos.
 - **Banco de Dados Relacional**: MySQL, PostgreSQL (dependendo do projeto).
 - **JDBC**: Conexão e execução de comandos SQL.
-- **Hibernate**: Mapeamento objeto-relacional (ORM).
-- **Spring Boot**: Framework para construção de aplicações web e APIs RESTful.
+
   
 ## Como Rodar
 
