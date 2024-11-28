@@ -1,4 +1,4 @@
-# Projetos Java com Banco de Dados
+# Projetos Java com Desenvolvimento Web
 
 Este repositório contém diversos projetos desenvolvidos em Java, com o objetivo de praticar e demonstrar o uso de bancos de dados relacionais. Cada projeto foi projetado para simular cenários reais do mercado de trabalho, com foco em boas práticas de programação, design de banco de dados e preparação para desafios técnicos.
 
