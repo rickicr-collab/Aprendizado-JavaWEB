@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+@import
+	url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap')
+	;
+
+body {
+	margin: 0;
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	text-align: center;
+	display: table;
+	width: 100%;
+	background-color: white;
+}
+
+img {
+	max-width: 100%;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	justify-content: center;
+	height: auto;
+}
+
+h1 {
+	font-family: "Open Sans", sans-serif;
+	color: #66bbff;
+	text-align: center;
+}
+
+.Botao1 {
+	text-decoration: none;
+	background-color: #66bbff;
+	padding: 5px 10px 5px 10px;
+	font-style: 1.2em;
+	font-weight: 700;
+	color: #fff;
+	border-radius: 5px;
+}
+
+.bodynovo {
+	text-align: left;
+	margin: 0;
+	display: inline-block;
+	font-size: 15px;
+	vertical-align: left;
+	justify-content: flex-start;
+	height: auto;
+}
+
+.btnovo {
+	text-decoration: none;
+	background-color: #66bbff;
+	padding: 5px 10px 5px 10px;
+	font-style: 1.2em;
+	font-weight: 700;
+	color: #fff;
+	border-radius: 5px;
+	text-align: left;
+	cursor: pointer;
+}
+
+.h1novo {
+	text-align: left;
+}
+
+.caixanovo1 {
+	width: 350px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+}
+
+.caixanovo2 {
+	width: 110px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+}
+
+#caixa3 {
+	width: 30px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #ff0000;
+	border-radius: 5px;
+}
